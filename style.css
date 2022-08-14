@@ -1,0 +1,49 @@
+#container {
+    
+    border: 1px solid pink;
+    
+    width : 172px;
+    height: 200px
+}
+
+#numbers {
+
+    width: 150px;
+    height: 200px;
+    
+}
+
+#row1 {
+    width: 180px;
+    height: 50px;
+    justify-content: space-between;
+}
+#row2 {
+    width: 180px;
+    height: 50px;
+    justify-content: space-between;
+}
+#row3 {
+    width: 180px;
+    height: 50px;
+    justify-content: space-between;
+}
+#row4 {
+    width: 180px;
+    height: 50px;
+    justify-content: space-between;
+}
+
+#display {
+    width: 172px;
+    border: 1px solid pink;
+    height: 30px;
+    color: black;
+}
+
+button {
+   width: 40px;
+   height: 50px;
+   border: 1px solid pink;
+   color: darkmagenta ;
+}
